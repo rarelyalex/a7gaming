@@ -1,0 +1,92 @@
+body {
+  background-image: url("../images/rocketleaguebackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+background-size: cover;
+}
+
+.rocketleaguetitle{
+  margin: 35px;
+  background-color: #ffffff;
+  opacity: 0.6;
+  background-color: orange;
+  text-align: center;
+  font-family:sans-serif;
+}
+div.explanation{
+border: solid;
+border-color: orange;
+background-color: brown;
+opacity: 0.7;
+width: 700px;
+height: 450px;
+}
+.menu {
+  width: 700px;
+  height: 400px;
+  float: right;
+  border: solid;
+  border-color: orange;
+  align-items: center;
+  position: relative; right: 30px;
+}
+.gameplay {
+  width: 700px;
+  height: 320px;
+  border: solid;
+  border-color: orange;
+  float: right;
+  position: relative; right: 30px;
+
+}
+.p1{
+  color: white;
+  font-size: 17px;
+  font-family: monospace;
+}
+h2{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+div.reason{
+  border:solid;
+  border-color: orange;
+  width: 700px;
+  height: 320px;
+  opacity:0.6;
+  background-color: brown;
+}
+h3 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.p2{
+  color: white;
+font-size: 23px;
+}
+div.theend{
+  background-color: #A36A00;
+ height: 200px;
+}
+.endtitle{
+  font-size: 40px;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+.p3{
+  font-size: 25px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+}
+#button1 {
+  width: 25px;
+  float: left;
+  position: relative; bottom: 23px;
+}
+#button2{
+  width: 25px;
+  float: right;
+  position: relative; bottom: 23px; right: 50px;
+}

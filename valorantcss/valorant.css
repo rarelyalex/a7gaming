@@ -1,0 +1,114 @@
+
+body{
+ background-color: #0F1923;
+}
+
+#valoranttitle {
+  width: 1500px;
+  height: 80px;
+}
+
+h1{
+  border: solid;
+  border-color: red;
+  color:white;
+  text-align: center;
+  font-family: sans-serif;
+  border-width: 3px;
+  width: 1500px;
+  background-color: red;
+}
+#gameexplanation{
+  width: 750px;
+  height: 470px;
+
+}
+h2 {
+  font-size: 30px;
+  width: 300px;
+  height: 40px;
+  font-family: sans-serif;
+  color: black;
+  border: solid;
+  border-color: red;
+  text-align: center;
+  background-color: pink;
+}
+p {
+  font-size: 30px;
+  color: pink;
+}
+img {
+  height: 500px;
+  width: 600px;
+  position: relative; left: 800px; bottom: 370px;
+  border: solid;
+  border-color: white;
+}
+#gamereason{
+  width: 750px;
+  height: 350px;
+}
+h3{
+  font-size: 30px;
+  font-family: sans-serif;
+  color: white;
+}
+p {
+  font-size: 30px;
+  color: pink;
+}
+#mains {
+  width: 550px;
+  height: 400px;
+}
+h4{
+  font-size: 30px;
+  font-family: sans-serif;
+  color: black;
+position: relative; left: 840px; bottom: 100px;
+border: solid;
+border-color: red;
+height: 50px;
+text-align: center;
+background-color: pink;
+
+}
+ .jett {
+   height: 100px;
+   width: 500px;
+  position: relative; left: 890px; bottom: 260px;
+  color: white;
+  font-size: 50px;
+  font-style: italic;
+
+}
+.jettpic {
+  height: 250px;
+  width: 250px;
+  position: relative; left: 1050px; top: -500px;
+}
+.omen {
+  height: 100px;
+  width: 400px;
+  font-size:50px;
+  font-style: italic;
+  color: white;
+  position: relative; left: 880px; bottom: 400px;
+}
+.omenpic{
+  height: 250px;
+  width: 250px;
+  position: relative; left: 1060px; bottom: 650px;
+}
+.gameplay{
+  position: relative; left: 10px; bottom: 1300px;
+  width: 800px;
+  height: 450px;
+}
+h5 {
+  font-size: 40px;
+  position: left: 500px; bottom: 1000px;
+  font-family: sans-serif;
+  color: white;
+}

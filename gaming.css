@@ -1,0 +1,74 @@
+body {background-color: #C44B4F;}
+
+#gametitle {
+  height: 180px;
+  width: 1600px;
+}
+h1 {
+  height: 25%;
+  width: 75%;
+  background-color:black;
+  text-align: center;
+  color: #FF1205;
+  border-color: red;
+}
+#aboutme {
+  width:500px;
+  height:39px;
+  background-color:black;
+  border-color: pink;
+}
+h2{
+  color:#FF1205;
+  font-size: 30px;
+  text-align: center;
+  font-family: sans-serif;
+  border-color: pink;
+  border: solid;
+
+}
+h3 {
+  font-size:25px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: serif;
+  color: #FF1205;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  font-family: cursive;
+}
+img {
+  width: 300px;
+  vertical-align: text-top;
+}
+#mygames{
+  width: 300px;
+  height: 300px;
+  position: relative; left: 600px; top: -540px;
+}
+h4{
+  font-size: 25px;
+  font-style: italic;
+  font-family: sans-serif;
+  background-color: black;
+  color: #FF1205;
+  text-align: center;
+}
+#mygames a{
+  text-decoration: none;
+  color: purple;
+}
+#mygames a:hover{
+  color: grey;
+}
+
+#games {
+  font-family:sans-serif;
+
+}
+ol {
+  font-size: 25px;
+  font-family: fantasy;
+}
